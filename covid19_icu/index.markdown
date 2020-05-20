@@ -10,7 +10,7 @@ layout: default
 
 Repository: <https://github.com/fcrawford/covid19_icu>
 
-The app was written by Soheil Eshghi, Margret Erlendsdottir, Maile Thayer Phillips, Suzan Iloglu, Christian Testa and Forrest W. Crawford. The model was developed by the authors and the COVID-19 Statistics, Policy modeling and Epidemiology Collective (C-SPEC). 
+The app was written by [Soheil Eshghi](http://www.soheileshghi.com/), [Margret Erlendsdottir](https://medicine.yale.edu/profile/margret_erlendsdottir/), [Maile Thayer Phillips](https://medicine.yale.edu/profile/maile_phillips/), [Suzan Iloglu](https://medicine.yale.edu/profile/suzan_iloglu/), [Christian Testa](http://ctesta.com)  and [Forrest W. Crawford](http://www.crawfordlab.io). The model was developed by the authors and the COVID-19 Statistics, Policy modeling and Epidemiology Collective (C-SPEC). 
 
 
 ## Technical report

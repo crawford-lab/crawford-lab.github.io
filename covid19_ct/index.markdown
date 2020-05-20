@@ -3,7 +3,7 @@ title: COVID-19 projections for Connecticut
 layout: default
 ---
 
-We are producing a series of reports on the COVID-19 pandemic for policymakers in Connecticut. We will post reports roughly once per month. 
+We are producing a series of reports on projections of the COVID-19 pandemic for policymakers in Connecticut. We will post reports roughly once per month. 
 
 ## Report 1: Reopening
 
@@ -27,5 +27,5 @@ Repository: <https://github.com/fcrawford/covid19_ct>
 
 ## About
 
-These reports are written by Olga Morozova, Zehang Richard Li, and Forrest W. Crawford. Soheil Eshghi helped develop the dynamic model software.  Please refer questions to <forrest.crawford@yale.edu>.  More information about our research group at Yale: <http://www.crawfordlab.io>. 
+These reports are written by [Olga Morozova](http://campuspress.yale.edu/omorozova/), [Zehang Richard Li](https://zehangli.com/), and [Forrest W. Crawford](http://www.crawfordlab.io/). [Soheil Eshghi](http://www.soheileshghi.com/) helped develop the dynamic model software.  Please refer questions to <forrest.crawford@yale.edu>.  More information about our research group at Yale: <http://www.crawfordlab.io>. 
 
