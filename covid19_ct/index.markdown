@@ -14,7 +14,7 @@ Repository: <https://github.com/fcrawford/covid19_ct_report1>
 
 ## Technical report: A model for COVID-19 transmission in Connecticut
 
-Version 1.0.0 [PDF](https://github.com/fcrawford/covid19_model_report/releases/tag/v1.0.0) (May 21, 2020)
+Version 1.0.0 [PDF](https://github.com/fcrawford/covid19_model_report/releases/download/v1.0.0/covid19_tech_report.pdf) (May 21, 2020)
 
 Repository: <https://github.com/fcrawford/covid19_model_report>
 
