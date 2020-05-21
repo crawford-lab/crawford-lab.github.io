@@ -7,7 +7,7 @@ We are producing a series of reports on projections of the COVID-19 pandemic for
 
 ## Report 1: COVID-19 projections for reopening Connecticut
 
-Version 1.0 [PDF](https://github.com/fcrawford/covid19_ct_report1/releases/download/v1.0.0/report1.pdf) (May 21, 2020) 
+Version 1.0.0 [PDF](https://github.com/fcrawford/covid19_ct_report1/releases/download/v1.0.0/report1.pdf) (May 21, 2020) 
 
 Repository: <https://github.com/fcrawford/covid19_ct_report1>
 
