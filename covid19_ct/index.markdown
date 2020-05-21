@@ -7,21 +7,21 @@ We are producing a series of reports on projections of the COVID-19 pandemic for
 
 ## Report 1: Reopening
 
-Version 1.0.0 (May 20,2020) [COVID-19 projections for reopening Connecticut](https://github.com/fcrawford/covid19_ct_report1/releases)
+Version 1.0.0 (May 20,2020) [COVID-19 projections for reopening Connecticut](https://github.com/fcrawford/covid19_ct_report1/releases/tag/v1.0.0)
 
 Repository: <https://github.com/fcrawford/covid19_ct_report1>
 
 
 ## Technical model description
 
-Version 1.0.0 (May 20, 2020) [A model for COVID-19 transmission in Connecticut](https://github.com/fcrawford/covid19_model_report/releases)
+Version 1.0.0 (May 20, 2020) [A model for COVID-19 transmission in Connecticut](https://github.com/fcrawford/covid19_model_report/releases/tag/v1.0.0)
 
 Repository: <https://github.com/fcrawford/covid19_model_report>
 
 
 ## Software 
 
-Version 1.0.0 (May 20, 2020)
+Version 1.0.0 (May 20, 2020) [Model codes](https://github.com/fcrawford/covid19_ct/releases/tag/v1.0.0)
 
 Repository: <https://github.com/fcrawford/covid19_ct>
 
