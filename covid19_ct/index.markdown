@@ -3,7 +3,7 @@ title: COVID-19 projections for Connecticut
 layout: default
 ---
 
-We are producing a series of reports on projections of the COVID-19 pandemic for policymakers in Connecticut. We will post reports every 4-6 weeks. 
+We are producing a series of reports on projections of the COVID-19 pandemic for policymakers in Connecticut. We will post a new report every 4-6 weeks. 
 
 ## Report 1: COVID-19 projections for reopening Connecticut
 
