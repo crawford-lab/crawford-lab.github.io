@@ -21,7 +21,7 @@ Repository: <https://github.com/fcrawford/covid19_model_report>
 
 ## Software 
 
-Version 1.0.0 [PDF](https://github.com/fcrawford/covid19_ct/releases/tag/v1.0.0) (May 21, 2020) 
+Version 1.0.0 [Release](https://github.com/fcrawford/covid19_ct/releases/tag/v1.0.0) (May 21, 2020) 
 
 Repository: <https://github.com/fcrawford/covid19_ct>
 
