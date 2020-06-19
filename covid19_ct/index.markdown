@@ -10,6 +10,7 @@ We are producing a series of reports on projections of the COVID-19 pandemic for
 Version 1.1.0 [PDF](https://github.com/fcrawford/covid19_ct_report1/releases/download/v1.1.0/report1.pdf) (June 8, 2020) [Changes from v1.0.0](https://github.com/fcrawford/covid19_ct_report1/compare/v1.0.0...v1.1.0)<br> 
 Version 1.0.0 [PDF](https://github.com/fcrawford/covid19_ct_report1/releases/download/v1.0.0/report1.pdf) (May 21, 2020) 
 
+medRxiv: <https://medrxiv.org/cgi/content/short/2020.06.16.20126425v1><br>
 Repository: <https://github.com/fcrawford/covid19_ct_report1>
 
 
